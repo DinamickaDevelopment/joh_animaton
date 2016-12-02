@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 85.3 100.3" style="enable-background:new 0 0 85.3 100.3;" xml:space="preserve">
+<style type="text/css">
+svg{
+        width: 300px;
+        overflow: visible;
+    }
+    g#Shield{
+    transform-origin: 50%;
+    animation: ShiledAnimation 3s ease-in-out infinite;
+    animation-play-state: paused;
+    }
+    svg:hover g#Shield{
+        animation-play-state: running;
+    }
+
+    @keyframes ShiledAnimation{
+ 0%{transform:scale(1);
+ opacity:1;}
+ 10%{opacity:0;}
+ 30%{transform:scale(0);
+ opacity:0;}
+40%{transform:scale(1);
+ opacity:0;}
+ 100%{transform:scale(1);
+ opacity:0;}
+    }
+      g#Circle,
+      g#Human{
+    transform-origin: 50%;
+    animation: CircleHumanAnimation 3s ease-in-out infinite;
+    animation-play-state: paused;
+    }
+    svg:hover g#Circle
+    {
+        animation-play-state: running;
+    }
+
+    @keyframes CircleHumanAnimation{
+ 0%{transform:scale(1);
+ opacity:1;}
+ 10%{opacity:0;}
+ 30%{transform:scale(0);
+ opacity:0;}
+ 40%{transform:scale(1.5);
+ opacity:1;}
+ 100%{transform:scale(1.5);
+ opacity:1;}
+    }
+
+   
+    g#Human circle{
+         transform-origin: 50%;
+         stroke-dasharray: 45px;
+         animation: HumanHeadAnimation 3s ease-in-out infinite;
+    animation-play-state: paused;
+    }
+    g#Human path{
+         transform-origin: 50%;
+         stroke-dasharray: 32px;
+         animation: HumanBodyAnimation 3s ease-in-out infinite;
+    animation-play-state: paused;
+    }
+      @keyframes HumanHeadAnimation{
+ 0% {stroke-dashoffset: 0;}
+ 10% {stroke-dashoffset: 0;}
+ 30%{ stroke-dashoffset:45px; }
+ 40%{ stroke-dashoffset:45px;
+ opacity:0;}
+   50%{opacity:1;}
+    70%{stroke-dashoffset: 90px;
+    opacity:1;}
+    100%{stroke-dashoffset: 90px;}
+    }
+    @keyframes HumanBodyAnimation{
+ 0% {stroke-dashoffset: 0;}
+ 10% {stroke-dashoffset: 0;}
+ 30%{ stroke-dashoffset:32px; }
+ 40%{ stroke-dashoffset:32px;
+ opacity:0;}
+  50%{opacity:1;}
+    70%{stroke-dashoffset: 64px;
+    opacity:1;}
+    100%{stroke-dashoffset: 64px;}
+    }
+   svg:hover g#Human circle,
+   svg:hover g#Human path{
+        animation-play-state: running;
+    }
+    svg:hover g#Human{
+        animation-play-state: running;
+    }
+	.st0{fill:none;stroke:#00B0E0;stroke-width:2.1654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Shield">
+	<path id="XMLID_5_" class="st0" d="M42.6,99.2C22.9,88.3,0.1,58.5,1.1,13.5c14.2,0,35.3-6.2,41.5-12.4l0,0
+		c6.2,6.2,27.3,12.4,41.5,12.4C85.1,58.5,62.4,88.3,42.6,99.2L42.6,99.2z"/>
+</g>
+<g id="Circle">
+	<circle id="XMLID_4_" class="st0" cx="42.2" cy="45.7" r="20.4"/>
+</g>
+<g id="Human">
+	<circle id="Head" class="st0" cx="42.2" cy="41.2" r="7.2"/>
+	<path id="Body" class="st0" d="M28.9,60.9c2.8-4.8,7.9-8,13.9-8c5.7,0,10.7,3,13.5,7.4"/>
+</g>
+</svg>

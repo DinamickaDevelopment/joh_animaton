@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 111.4 95.1" style="enable-background:new 0 0 111.4 95.1;" xml:space="preserve">
+<style type="text/css">
+ svg{
+        width:300px;
+        overflow: visible;
+    }
+	g#Gage{
+    transform-origin: 50% 80%;
+    animation: GageRotate 3s ease-in-out infinite;
+    animation-play-state: paused;
+	}
+	svg:hover g#Gage{
+	animation-play-state: running;
+	}
+	@keyframes GageRotate{
+		 0%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+            15%{ -moz-transform: rotateZ(-100deg);
+                -webkit-transform: rotateZ(-100deg);
+                transform: rotateZ(-100deg);}
+			45%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+               52%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}	
+                	59%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+                66%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}
+                  	73%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+                  95%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+                100%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+			}
+            @-moz-keyframes GageRotate{
+		 0%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+            15%{ -moz-transform: rotateZ(-100deg);
+                -webkit-transform: rotateZ(-100deg);
+                transform: rotateZ(-100deg);}
+			45%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+               52%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}	
+                	59%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+                66%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}
+                  	73%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+                  95%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+                100%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+			}
+             @-webkit-keyframes GageRotate{
+		 0%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+            15%{ -moz-transform: rotateZ(-100deg);
+                -webkit-transform: rotateZ(-100deg);
+                transform: rotateZ(-100deg);}
+			45%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+               52%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}	
+                	59%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+				
+                66%{ -moz-transform: rotateZ(95deg);
+                -webkit-transform: rotateZ(95deg);
+                transform: rotateZ(95deg);}
+                  	73%{ -moz-transform: rotateZ(125deg);
+                -webkit-transform: rotateZ(125deg);
+                transform: rotateZ(125deg);}
+                  95%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+                100%{ -moz-transform: rotateZ(0);
+                -webkit-transform: rotateZ(0);
+                transform: rotateZ(0);}
+			}
+			
+	.st0{fill:none;stroke:#00A7CB;stroke-width:2.1654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<path class="st0" d="M17.4,94c-21.3-21.3-21.3-55.7,0-77s55.7-21.3,77,0s21.3,55.7,0,77"/>
+	<line class="st0" x1="55.9" y1="1.1" x2="55.9" y2="10.3"/>
+	<line class="st0" x1="17.4" y1="17" x2="23.9" y2="23.5"/>
+	<line class="st0" x1="1.5" y1="55.4" x2="10.7" y2="55.4"/>
+	<line class="st0" x1="94.3" y1="17" x2="87.8" y2="23.5"/>
+	<line class="st0" x1="94.3" y1="94" x2="87.8" y2="87.5"/>
+	<line class="st0" x1="17.4" y1="94" x2="23.9" y2="87.5"/>
+	<line class="st0" x1="110.2" y1="55.4" x2="101" y2="55.4"/>
+	<path class="st0" d="M70,90.8H41.2c-2.1,0-3.8-1.7-3.8-3.8v-5c0-2.1,1.7-3.8,3.8-3.8H70c2.1,0,3.8,1.7,3.8,3.8v5
+		C73.8,89.1,72.1,90.8,70,90.8z"/>
+</g>
+<g id="Gage">
+	<path class="st0" d="M61.6,55.7c3.2,3.2,3.2,8.3,0,11.4c-3.2,3.2-8.3,3.2-11.4,0s-3.2-8.3,0-11.4l1.9-1.5l3.8-26.6l4.1,26.6
+		L61.6,55.7z"/>
+</g>
+</svg>

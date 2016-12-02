@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 115.6 93.8" style="enable-background:new 0 0 115.6 93.8;" xml:space="preserve">
+<style type="text/css">
+svg{
+        width:300px;
+        overflow: visible;}
+        #Arrows{
+    transform-origin: 50%;
+    animation: ArrowsMovement 2.5s linear infinite;
+    animation-play-state: paused;
+        }
+          svg:hover #Arrows{
+        animation-play-state: running;
+    }
+    @keyframes ArrowsMovement{
+            0%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;
+                }
+                25%{ 
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:1;
+                }
+              50%{
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:0}
+                75%{ 
+                -moz-transform: translateY(3px);
+                -webkit-transform: translateY(3px);
+                transform: translateY(3px);
+                opacity:0;}
+                  100%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;}
+              }
+               @-moz-keyframes ArrowsMovement{
+            0%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;
+                }
+                25%{ 
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:1;
+                }
+              50%{
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:0}
+                75%{ 
+                -moz-transform: translateY(3px);
+                -webkit-transform: translateY(3px);
+                transform: translateY(3px);
+                opacity:0;}
+                  100%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;}
+              }
+              @-webkit-keyframes ArrowsMovement{
+            0%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;
+                }
+                25%{ 
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:1;
+                }
+              50%{
+                -moz-transform: translateY(-3px);
+                -webkit-transform: translateY(-3px);
+                transform: translateY(-3px);
+                opacity:0}
+                75%{ 
+                -moz-transform: translateY(3px);
+                -webkit-transform: translateY(3px);
+                transform: translateY(3px);
+                opacity:0;}
+                  100%{ 
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+                opacity:1;}
+              }
+         #Cloud{
+    transform-origin: 50%;
+    animation: CloudMovement 2.5s ease-in-out infinite;
+    animation-play-state: paused;
+         }
+    
+    svg:hover #Cloud{
+        animation-play-state: running;
+    }
+
+        @keyframes CloudMovement{
+            0%{ -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+           50%{
+                -moz-transform: translateY(-5px);
+                -webkit-transform: translateY(-5px);
+                transform: translateY(-5px);}
+            100%{
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+                }
+                @-moz-keyframes CloudMovement{
+            0%{ -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+           50%{
+                -moz-transform: translateY(-5px);
+                -webkit-transform: translateY(-5px);
+                transform: translateY(-5px);}
+            100%{
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+                }
+                  @-webkit-keyframes CloudMovement{
+            0%{ -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+           50%{
+                -moz-transform: translateY(-5px);
+                -webkit-transform: translateY(-5px);
+                transform: translateY(-5px);}
+            100%{
+                -moz-transform: translateY(0);
+                -webkit-transform: translateY(0);
+                transform: translateY(0);}
+                }
+	.st0{fill:none;stroke:#00B0E0;stroke-width:2.1654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#00A6CA;}
+</style>
+<g id="Lines">
+	<g id="XMLID_2_">
+		<line id="XMLID_24_" class="st0" x1="30" y1="86.8" x2="86" y2="86.8"/>
+		<line id="XMLID_23_" class="st0" x1="30" y1="92.7" x2="86" y2="92.7"/>
+	</g>
+</g>
+<g id="Arrows">
+	<g id="XMLID_19_">
+		<line id="XMLID_22_" class="st0" x1="48.5" y1="79.9" x2="48.5" y2="69.2"/>
+		<line id="XMLID_21_" class="st0" x1="48.5" y1="69.2" x2="42.9" y2="74.9"/>
+		<line id="XMLID_20_" class="st0" x1="48.5" y1="69.2" x2="54.1" y2="74.9"/>
+	</g>
+	<g id="XMLID_15_">
+		<line id="XMLID_18_" class="st0" x1="68.6" y1="79.9" x2="68.6" y2="69.2"/>
+		<line id="XMLID_17_" class="st0" x1="68.6" y1="69.2" x2="63" y2="74.9"/>
+		<line id="XMLID_16_" class="st0" x1="68.6" y1="69.2" x2="74.3" y2="74.9"/>
+	</g>
+</g>
+<g id="Cloud">
+	<path id="XMLID_28_" class="st0" d="M42.1,15.1c5.3-8.4,14.7-14,25.3-14c16.5,0,30,13.4,30,30"/>
+	<path id="XMLID_27_" class="st0" d="M18.4,27.3c0-8.3,6.7-15,15-15c6.6,0,12.2,4.2,14.2,10.1"/>
+	<path id="XMLID_26_" class="st0" d="M18.4,27.3C8.5,30,1.2,39,1.2,49.8C1.2,62.6,11.6,73,24.5,73h0h10.8"/>
+	<path id="XMLID_25_" class="st0" d="M90.4,31.1c1-0.2,2.1-0.2,3.1-0.2c11.6,0,21,9.4,21,21S104.8,73,93.2,73H81.4"/>
+	<path id="XMLID_14_" class="st0" d="M81.6,33.4v25.3c0,1.5-1.2,2.7-2.7,2.7H36.6c-1.5,0-2.7-1.2-2.7-2.7V33.4
+		c0-1.5,1.2-2.7,2.7-2.7h42.3C80.4,30.6,81.6,31.8,81.6,33.4z"/>
+	<line id="XMLID_13_" class="st0" x1="37.8" y1="46.1" x2="45.3" y2="46.1"/>
+	<line id="XMLID_12_" class="st0" x1="33.9" y1="51" x2="81.6" y2="51"/>
+	<line id="XMLID_11_" class="st0" x1="50.2" y1="46.1" x2="57.7" y2="46.1"/>
+	<circle id="XMLID_10_" class="st1" cx="75" cy="46.1" r="1.2"/>
+	<line id="XMLID_9_" class="st0" x1="37.8" y1="36" x2="45.3" y2="36"/>
+	<line id="XMLID_8_" class="st0" x1="33.9" y1="40.9" x2="81.6" y2="40.9"/>
+	<line id="XMLID_7_" class="st0" x1="50.2" y1="36" x2="57.7" y2="36"/>
+	<circle id="XMLID_6_" class="st1" cx="75" cy="36" r="1.2"/>
+	<line id="XMLID_5_" class="st0" x1="37.8" y1="56.2" x2="45.3" y2="56.2"/>
+	<line id="XMLID_4_" class="st0" x1="50.2" y1="56.2" x2="57.7" y2="56.2"/>
+	<circle id="XMLID_3_" class="st1" cx="75" cy="56.2" r="1.2"/>
+</g>
+</svg>

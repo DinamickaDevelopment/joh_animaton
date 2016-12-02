@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+	<style type="text/css">
+ 	svg{
+        width:300px;
+        margin: 50px;
+        overflow: visible;
+    }
+	#MainSnake{
+		stroke-dasharray: 47px;
+		transform: rotateZ(-90deg);
+		transform-origin: 50% 50%;
+	}
+
+	#LeftSnake,
+	#RightSnake,
+	#MiddleSnake{
+		stroke-dasharray: 36px;
+		transform: rotateZ(90deg);
+		transform-origin: 50% 50%;
+	}
+	#Horizontal1,
+	#Horizontal2{
+		stroke-dasharray: 27px;
+	}
+	#VerticalLine{
+		stroke-dasharray: 15px;
+	}
+	.st0{fill:none;stroke:#00B0E0;stroke-width:2.1654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+</head>
+<body>
+    <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.765 82.173">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00b0e0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.165px;
+      }
+    </style>
+  </defs>
+  <title>Virtualization and Cloud services</title>
+  <g >
+    <line id="VerticalLine" class="cls-1" x1="51.683" y1="65.99" x2="51.683" y2="51.39"/>
+  </g>
+  <path id="Horizontal1" class="cls-1" d="M51.7,59.9H35.8a2.582,2.582,0,0,1-2.6-2.6V51.1" transform="translate(-0.017 -0.01)"/>
+  <path id="Horizontal2" class="cls-1" d="M70.4,51.1v6.2a2.582,2.582,0,0,1-2.6,2.6H51.7" transform="translate(-0.017 -0.01)"/>
+  <g >
+    <circle id="RightSnake" class="cls-1" cx="70.383" cy="45.39" r="5.7"/>
+  </g>
+  <g >
+    <circle id="MiddleSnake" class="cls-1" cx="51.683" cy="45.39" r="5.7"/>
+  </g>
+  <g >
+    <circle id="LeftSnake" class="cls-1" cx="33.083" cy="45.39" r="5.7"/>
+  </g>
+  <g >
+    <circle id="MainSnake" class="cls-1" cx="51.683" cy="73.59" r="7.5"/>
+  </g>
+  <g id="Cloud">
+    <g>
+      <path class="cls-1" d="M75.8,20.1a14.351,14.351,0,0,0-27.9-1.2" transform="translate(-0.017 -0.01)"/>
+      <path class="cls-1" d="M86.7,29.8A7.357,7.357,0,0,0,76,19.7" transform="translate(-0.017 -0.01)"/>
+      <path class="cls-1" d="M79.1,59.5h5.4A17.2,17.2,0,0,0,89,25.7" transform="translate(-0.017 -0.01)"/>
+      <path class="cls-1" d="M22.2,29.6a14.672,14.672,0,0,0-5.6-1,15.5,15.5,0,1,0,0,31h8.6" transform="translate(-0.017 -0.01)"/>
+      <path class="cls-1" d="M15,28.7C12,17,19,4.7,30.6,1.8A21.709,21.709,0,0,1,54,10.6" transform="translate(-0.017 -0.01)"/>
+    </g>
+  </g>
+</svg>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<script src="index.js"></script>
+
+    </body>
+</html>
