@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         viewBox="0 0 115.6 93.8" style="enable-background:new 0 0 115.6 93.8;" xml:space="preserve">
+<style type="text/css">
+        svg{
+        width:300px;
+        overflow: visible;}
+	.st0{fill:none;stroke:#00B0E0;stroke-width:2.1654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#00A6CA;}
+</style>
+<g id="Lines">
+  <line y2="86.8" x2="86" y1="86.8" x1="30" class="st0" id="XMLID_24_" />
+  <line y2="92.7" x2="86" y1="92.7" x1="30" class="st0" id="XMLID_23_" />
+</g>
+<g id="Arrows">
+<line y2="69.2" x2="48.5" y1="79.9" x1="48.5" class="st0" id="XMLID_22_" />
+<line y2="74.9" x2="42.9" y1="69.2" x1="48.5" class="st0" id="XMLID_21_" />
+<line y2="74.9" x2="54.1" y1="69.2" x1="48.5" class="st0" id="XMLID_20_" />
+</g>
+<g id="XMLID_15_">
+<line y2="69.2" x2="68.6" y1="79.9" x1="68.6" class="st0" id="XMLID_18_" />
+<line y2="74.9" x2="63" y1="69.2" x1="68.6" class="st0" id="XMLID_17_" />
+<line y2="74.9" x2="74.3" y1="69.2" x1="68.6" class="st0" id="XMLID_16_" />
+</g>
+</g>
+<g id="Cloud">
+<path d="M42.1,15.1c5.3-8.4,14.7-14,25.3-14c16.5,0,30,13.4,30,30" class="st0" id="XMLID_28_" />
+<path d="M18.4,27.3c0-8.3,6.7-15,15-15c6.6,0,12.2,4.2,14.2,10.1" class="st0" id="XMLID_27_" />
+<path d="M18.4,27.3C8.5,30,1.2,39,1.2,49.8C1.2,62.6,11.6,73,24.5,73h0h10.8" class="st0" id="XMLID_26_" />
+<path d="M90.4,31.1c1-0.2,2.1-0.2,3.1-0.2c11.6,0,21,9.4,21,21S104.8,73,93.2,73H81.4" class="st0" id="XMLID_25_" />
+<line y2="46.1" x2="45.3" y1="46.1" x1="37.8" class="st0" id="XMLID_13_" /><line y2="46.1" x2="57.7" y1="46.1" x1="50.2" class="st0" id="XMLID_11_" /><circle r="1.2" cy="46.1" cx="75" class="st1" id="XMLID_10_" /><line y2="36" x2="45.3" y1="36" x1="37.8" class="st0" id="XMLID_9_" /><line y2="36" x2="57.7" y1="36" x1="50.2" class="st0" id="XMLID_7_" /><circle r="1.2" cy="36" cx="75" class="st1" id="XMLID_6_" /><line y2="56.2" x2="45.3" y1="56.2" x1="37.8" class="st0" id="XMLID_5_" /><line y2="56.2" x2="57.7" y1="56.2" x1="50.2" class="st0" id="XMLID_4_" /><circle r="1.2" cy="56.2" cx="75" class="st1" id="XMLID_3_" /></g><path style="fill:none;stroke:#00b0e0;stroke-width:2.16397595;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m 33.88818,40.914015 -0.0062,-7.570623 c -0.0012,-1.50021 1.198255,-2.626287 2.696073,-2.626148 l 42.246285,0.0039 c 1.731853,-0.0922 2.687338,1.384188 2.688273,2.544105 3.41e-4,2.070547 -0.0077,7.63185 -0.0077,7.63185 z" class="st0" id="XMLID_14_-4" /><path style="fill:none;stroke:#00b0e0;stroke-width:2.18597293;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m 81.507033,51.292991 -47.607854,0.0041 -0.0062,7.728889 c -0.0012,1.531573 1.197701,2.681192 2.694829,2.681049 l 42.226773,-0.004 c 1.731053,0.09412 2.686097,-1.413126 2.687032,-2.597291 3.39e-4,-2.113832 0.0049,-5.400365 0.0054,-7.812698 z" class="st0" id="XMLID_14_-4-8" /><path style="fill:none;stroke:#00b0e0;stroke-width:2.19519758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m 81.500299,51.302404 -47.602701,-0.0041 5e-5,-10.398144 47.604752,-0.0025 -0.0021,10.404656 z" class="st0" id="XMLID_14_-4-3" /></svg>

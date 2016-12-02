@@ -7,8 +7,8 @@ var Shield = document.querySelector('#Shield'),
     }
 var tl = new TimelineMax({paused:true})
   tl.staggerTo([Shield,Circle,Human.All],0.2,{scale:0,opacity:0,transformOrigin:"50% 50%",ease:Power3.easeIn})
-    .set(Human.Head,{strokeDashoffset:'-46px'})
-    .set(Human.Body,{strokeDashoffset:'-33px'})
+    .set(Human.Head,{strokeDashoffset:'47px'})
+    .set(Human.Body,{strokeDashoffset:'34px'})
     .staggerTo([Circle,Human.All],0.7,{delay:0.2,scale:1.3,opacity:1,transformOrigin:"50% 50%",ease:Power3.easeOut})
     .addLabel('HimanAppear')
     .to(Human.Head,0.5,{strokeDashoffset:'0'},'HimanAppear')
