@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+	html,body{height: 100%;margin: 0px;position: relative;}
+
+	#controls{position: absolute;bottom: 0px;left:0px;margin-bottom:20px }
+	#main{
+		width:100px;
+		height: 100px;
+		background-color: green;
+	}
+    </style>
+</head>
+<body>
+	<div id="main"></div>
+	<div id="controls">
+		<form>
+			<div class="field">
+				<div>
+					<input type="radio" id="tweenLite-radio" onchange="setAnimation.TweenLite()" name="controle-type">
+					<label for="tweenLite-radio">TweenLite</label>
+				</div>
+				<div>
+					<input type="radio" id="tweenMax-radio" onchange="setAnimation.TweenMax()" name="controle-type">
+					<label for="tweenMax-radio">TweenMax</label>
+				</div>
+				<div>
+					<input type="radio" id="TimelineLite-radio" onchange="setAnimation.TimelineLite()"  name="controle-type">
+					<label for="TimelineLite-radio">TimelineLite</label>
+				</div>
+				<div>
+					<input type="radio" id="TimelineMax-radio" onchange="setAnimation.TweenMax()"  name="controle-type">
+					<label for="TimelineMax-radio">TimelineMax</label>
+				</div>			
+				<div>
+					<input type="radio" id="Hard-radio" onchange="setAnimation.tryHard()" name="controle-type">
+					<label for="Hard-radio">Hard Drugs</label>
+				</div>
+			</div>
+			<div class="field">
+				<div>
+					<input type="radio" id="to-radio" selected name="controle-type-function">
+					<label for="to-radio">to</label>
+				</div>
+				<div>
+					<input type="radio" id="fromTo-radio" name="controle-type-function">
+					<label for="fromTo-radio">fromTo</label>
+				</div>
+			</div>
+		</form>
+	</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

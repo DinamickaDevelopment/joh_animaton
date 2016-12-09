@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+	html,body{height: 100%;margin: 0px;position: relative;}
+
+    .animation1{
+        background: url(2.png);
+        width: 85px;
+        height:54px;
+        background-position: 0 0;
+    }    .animation2{
+        position: relative;
+        background: url(3.png);
+        width: 184px;
+        height:325px;
+        background-position: 0 0;
+    }
+        .yoda{
+        background: url(yoda.png);
+        width: 32px;
+        height:40px;
+        background-position: 0 -8px;
+    }
+            .boom{
+        background: url(4.png);
+        width: 95px;
+        height:98px;
+        background-position:0px 0px;
+    }
+    </style>
+</head>
+<body>
+    <div class=animation1></div>
+    <div class="animation2"></div><div class="yoda"></div>
+    <div class="boom"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/easing/EasePack.min.js"></script>
+<script src="index2.js"></script>
+</body>
+</html>
